@@ -1,0 +1,41 @@
+.wf-force-outline-none[tabindex="-1"]:focus {
+    outline: none;
+  }
+.xyz{
+    position: relative;
+    top:-7.2px!important;
+}
+.xyza{
+    position: relative;
+    top:-15px!important;
+}
+.glasp-ui-wrapper{
+    height: 0px; width: 0px
+}
+.abx{
+    background-color: transparent; border: 0px; display: none
+}
+#glasp-tooltip-iframe{
+    height: 48px;
+          filter: drop-shadow(rgba(0, 0, 0, 0.3) 0px 2px 5px);
+          position: relative;
+          width: 0px !important;
+          display: none;
+}
+#glasp-sidebar-iframe{
+    max-width: 300px;
+          height: 100%;
+          background: url('https://storage.googleapis.com/glasp.co/src/img/loading_200.gif')
+            center center / 40px no-repeat rgb(255, 255, 255);
+          resize: horizontal;
+          direction: rtl;
+          margin: auto;
+          position: fixed;
+          top: 0px;
+          right: 0px;
+          left: auto;
+          z-index: 2147483647;
+          width: 0px !important;
+          min-width: 0px !important;
+          display: block;
+}
